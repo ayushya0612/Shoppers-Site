@@ -1,2 +1,2 @@
 # Shoppers-Site
-website for online groceries purchase 
+website for online groceries
