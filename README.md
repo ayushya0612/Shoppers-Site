@@ -1,2 +1,2 @@
 # Shoppers-Site
-Sample website for online groceries
+Sample website for online groceries.
